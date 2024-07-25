@@ -16,5 +16,7 @@ The code to generate HTML test report:
 pytest --cov-config=tests/.coveragerc --cov-report html:./tests/reports/coverage --cov=./ ./  
 ```
 
+[Test Coverage Report ](https://aymanelsayeed.github.io/PyTestEx/)
+
 [Reporting](https://pytest-cov.readthedocs.io/en/latest/reporting.html)
 
