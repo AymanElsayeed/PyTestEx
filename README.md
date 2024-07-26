@@ -1,6 +1,9 @@
 ---
 Pytest Example
 ---
+## Objective:
+
+This project is to demonstrate how to generate HTML test report and coverage report using Pytest framework and its capabilities which includes:
 
 The code to generate xml coverage report:
 ```
